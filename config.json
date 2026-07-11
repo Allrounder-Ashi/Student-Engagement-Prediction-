@@ -1,0 +1,87 @@
+{
+  "labels": [
+    "Engagement",
+    "Boredom",
+    "Confusion",
+    "Frustration"
+  ],
+  "num_classes_orig": 4,
+  "num_classes_per_label": {
+    "Engagement": 3,
+    "Boredom": 3,
+    "Confusion": 3,
+    "Frustration": 3
+  },
+  "class_names_per_label": {
+    "Engagement": [
+      "0-1",
+      "2",
+      "3"
+    ],
+    "Boredom": [
+      "0",
+      "1",
+      "2-3"
+    ],
+    "Confusion": [
+      "0",
+      "1",
+      "2-3"
+    ],
+    "Frustration": [
+      "0",
+      "1",
+      "2-3"
+    ]
+  },
+  "merge_maps": {
+    "Engagement": [
+      0,
+      0,
+      1,
+      2
+    ],
+    "Boredom": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "Confusion": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "Frustration": [
+      0,
+      1,
+      2,
+      2
+    ]
+  },
+  "seq_len": 16,
+  "embed_dim": 2048,
+  "class_weights": {
+    "engagement_out": [
+      1.0589778135081658,
+      0.9705110932414388,
+      0.9705110932503953
+    ],
+    "boredom_out": [
+      0.9999985462590486,
+      0.9999985857980555,
+      1.0000028679428958
+    ],
+    "confusion_out": [
+      0.9977313406633519,
+      0.9977350120699704,
+      1.0045336472666777
+    ],
+    "frustration_out": [
+      0.9660919867461711,
+      0.9661674560808086,
+      1.0677405571730205
+    ]
+  }
+}

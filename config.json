@@ -1,0 +1,16 @@
+{
+  "labels": ["Engagement", "Boredom", "Confusion", "Frustration"],
+  "class_names": ["Low", "High"],
+  "binary_map": [0, 0, 1, 1],
+  "best_thresholds": {
+    "engagement_out": 0.6000000000000002,
+    "boredom_out": 0.4800000000000001,
+    "confusion_out": 0.4800000000000001,
+    "frustration_out": 0.45000000000000007
+  },
+  "n_seeds": 5,
+  "seq_len": 16,
+  "embed_dim": 1024,
+  "embed_dim_model": 1536,
+  "clip_model_name": "openai/clip-vit-large-patch14"
+}

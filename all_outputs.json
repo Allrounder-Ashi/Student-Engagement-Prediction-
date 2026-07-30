@@ -1,0 +1,32 @@
+{
+    "testVideo1": {
+        "predictions": {
+            "Engagement": "Low",
+            "Boredom": "High",
+            "Confusion": "High",
+            "Frustration": "High"
+        },
+        "topic": "addition",
+        "report": "Hi there! Let's learn about addition today. I know math can sometimes feel a bit tricky, but please don't worry\u2014everyone can learn this with a little bit of practice, and we will take it nice and slow together!\n\nAddition is just putting things together to find out how many you have in total. \n\nLet's look at a fun real-life example. Imagine you have 2 apples in your basket, and your friend gives you 1 more apple. To find out how many apples you have now, you count them all together: 1, 2, 3! \n\nHere is our worked example:\nIf you have **2** toy cars and you get **3** more toy cars, you put them together. Counting them all gives us **5** toy cars. \nWe write this as: 2 + 3 = 5.\n\nAddition is super useful because we use it every day, like when counting toys, candies, or even steps!\n\nNow, it is your turn to try one. \n\nIf you have **4** stickers and you find **2** more stickers, how many stickers do you have in total?"
+    },
+    "testVideo2": {
+        "predictions": {
+            "Engagement": "Low",
+            "Boredom": "Low",
+            "Confusion": "Low",
+            "Frustration": "High"
+        },
+        "topic": "python",
+        "report": "Hello there! Take a nice, deep breath. Learning something new can feel tricky at first, but please don't worry\u2014everyone faces challenges when learning Python, and with a little bit of practice, you will totally get the hang of it. We will take this completely one calm step at a time. \n\nToday, we are looking at Python **variables**. Think of a variable simply as a labeled box where you can store a piece of information, like a number or a name, so you can use it later.\n\nHere is a simple worked example:\n\n```python\nscore = 10\nprint(score)\n```\n\nIn this example, we created a box called `score`, put the number `10` inside it, and then printed it out on the screen. \n\nNow it is your turn to try! Here is a short practice question for you:\n\nIf you wanted to create a variable named `age` and store the number `15` inside it, how would you write that single line of code?"
+    },
+    "testVideo3": {
+        "predictions": {
+            "Engagement": "Low",
+            "Boredom": "Low",
+            "Confusion": "High",
+            "Frustration": "High"
+        },
+        "topic": "gaming",
+        "report": "Hey there! Welcome. Don't worry if things feel a bit tricky right now; gaming is a big world, and it takes a little time and practice to learn everything. You are doing great, and we will take it nice and slow, step by step. \n\nToday, let's just look at one simple idea: **levels** in a game. \n\nThink of a level like a step on a staircase. When you play a game, you start at the bottom step (Level 1). You practice playing, and when you finish the goals, you step up to the next one (Level 2). \n\nHere is a quick example: \nImagine playing a racing game. \n- Step 1: You learn how to make your car go forward on a simple track. Once you do that, you beat the level!\n- Step 2: The game moves you to a new track with a sharper turn. \n\nThat is all a level is\u2014one part of the game you finish before moving on to the next challenge. \n\nNow, let's try one together. If a game has three levels, and you just finished the second one, what level are you playing next?"
+    }
+}

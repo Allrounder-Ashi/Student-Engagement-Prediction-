@@ -1,0 +1,32 @@
+{
+    "testVideo1": {
+        "predictions": {
+            "Engagement": "Low",
+            "Boredom": "High",
+            "Confusion": "High",
+            "Frustration": "High"
+        },
+        "topic": "math",
+        "report": "Hello there! Don't worry if math feels a little tricky right now. Everyone finds it challenging at first, but with a little practice, you can totally master it! \n\nToday, let's look at a very useful math tool: **addition**. Addition is just putting things together to find out how many you have in total. You use it in real life all the time, like when you are counting your toys or figuring out how many snacks you have.\n\nHere is one simple concept at a time:\n\n**Worked Example:**\nImagine you have 2 apples, and your friend gives you 3 more apples. To find the total, you count them all together: 1, 2, 3, 4, 5. \nSo, $2 + 3 = 5$.\n\nSee? You just added numbers together! \n\nNow it is your turn to try one short practice question:\nIf you have 4 pencils and you get 2 more, how many pencils do you have in total?"
+    },
+    "testVideo2": {
+        "predictions": {
+            "Engagement": "Low",
+            "Boredom": "Low",
+            "Confusion": "Low",
+            "Frustration": "High"
+        },
+        "topic": "python",
+        "report": "Hello there! I am so glad you are here today. Python can feel a little tricky at first, but please take a deep breath\u2014you are doing great, and with a little bit of practice, you will get the hang of it! \n\nToday, let's look at one simple idea: a **variable**. Think of a variable as a labeled box where you can store a piece of information, like a number or a word, so you can use it later.\n\nHere is a quick worked example:\n```python\nscore = 10\nprint(score)\n```\nIn this code, `score` is our box, and we put the number `10` inside it. When we run `print(score)`, Python looks inside the box and shows us the number `10`.\n\nNow it is your turn to try! \n\n**Practice Question:**\nHow would you write a line of Python code to create a variable named `age` and store the number `15` inside it?"
+    },
+    "testVideo3": {
+        "predictions": {
+            "Engagement": "Low",
+            "Boredom": "Low",
+            "Confusion": "High",
+            "Frustration": "High"
+        },
+        "topic": "food",
+        "report": "Hello there! I am so glad you are here today. We are going to talk about food, and I want to reassure you that learning about this topic is easy when we take it one small step at a time. You are doing great, and with a little practice, you will understand it completely!\n\nLet's look at just one simple idea: what food is. \n\nFood is anything we eat or drink to give our bodies energy. Energy helps us run, play, and grow big and strong. \n\nHere is a worked example: \nAn apple is a type of food. When you eat an apple, your body uses it as fuel to help you play outside. \n\nNow, let's try one together! \nIs milk a type of food that helps give your body energy?"
+    }
+}

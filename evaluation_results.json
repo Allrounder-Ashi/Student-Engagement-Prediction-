@@ -1,0 +1,34 @@
+[
+    {
+        "test_case": 1,
+        "topic": "Binary Search Trees",
+        "state": {
+            "engagement": "Low",
+            "boredom": "Low",
+            "confusion": "High",
+            "frustration": "Low"
+        },
+        "pedagogical_alignment": 2.0,
+        "concept_accuracy": 1.0,
+        "tone_appropriateness": 4.0,
+        "constraint_adherence": 4.0,
+        "overall_score": 2.75,
+        "justification": "While the response uses a supportive tone, avoids disclosing the student's affective state, and adheres to word count constraints, it contains purely placeholder statements rather than an actual explanation, worked example, or concept content for Binary Search Trees."
+    },
+    {
+        "test_case": 2,
+        "topic": "Merge Sort Complexity",
+        "state": {
+            "engagement": "Low",
+            "boredom": "High",
+            "confusion": "Low",
+            "frustration": "Low"
+        },
+        "pedagogical_alignment": 1.0,
+        "concept_accuracy": 1.0,
+        "tone_appropriateness": 3.5,
+        "constraint_adherence": 3.5,
+        "overall_score": 2.25,
+        "justification": "The response fails to address the student's high boredom, offering no real-world analogies or engaging context. Crucially, it provides zero actual explanation of Merge Sort Complexity, consisting entirely of placeholder template sentences. While it follows basic structural labeling, stays under 250 words, and avoids disclosing the student's affective state, the absence of substantive content severely invalidates its instructional value."
+    }
+]
